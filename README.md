@@ -9,7 +9,6 @@ if the distance is more than 100 meters, then a system alert is displayed: "You 
 
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 12](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 20](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/aba402eb-f5b5-41d9-9897-4138b0b34157)
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 11](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/f8a19bca-8c65-49b7-9c92-6604d245f127)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 26](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/b6d02521-8885-419b-9a35-81c6200fe8da)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 31](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/0e02f1b3-e356-4884-91a3-43156c720f20)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 36](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/f45da3de-22ed-49ff-a6b6-77602ae1d059)
