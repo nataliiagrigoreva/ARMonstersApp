@@ -15,9 +15,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Создаем UIWindow и устанавливаем его корневой контроллер
         window = UIWindow(frame: UIScreen.main.bounds)
-        window?.rootViewController = ViewController() // Используется ViewController в качестве корневого контроллера
+        window?.rootViewController = ViewController()
         window?.makeKeyAndVisible()
         return true
     }

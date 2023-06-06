@@ -1,11 +1,10 @@
 //
-//  NoLocationPermissionViewController.swift
+//  ViewController.swift
 //  ARMonsters
 //
 //  Created by Nataly on 03.06.2023.
 //
 
-// NoLocationPermissionViewController.swift
 import UIKit
 
 class NoLocationPermissionViewController: UIViewController {
@@ -18,8 +17,7 @@ class NoLocationPermissionViewController: UIViewController {
         self.view.insertSubview(backgroundImage, at: 0)
         showLocationPermissionAlert()
     }
-    
-    // Метод для отображения предупреждения о запрете доступа к геолокации
+
     func showLocationPermissionAlert() {
         let alert = UIAlertController(title: "Уведомление", message: "Мы не знаем где Вы находитесь на карте, разрешите нам определить ваше местоположение, это делается в настройках устройства.", preferredStyle: .alert)
         let settingsAction = UIAlertAction(title: "Перейти к настройкам", style: .default) { (_) in

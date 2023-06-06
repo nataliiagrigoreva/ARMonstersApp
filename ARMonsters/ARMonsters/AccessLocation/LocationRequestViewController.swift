@@ -4,7 +4,6 @@
 //
 //  Created by Nataly on 03.06.2023.
 //
-// LocationRequestViewController.swift
 
 import UIKit
 import CoreLocation
