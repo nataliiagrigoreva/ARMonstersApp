@@ -20,7 +20,7 @@ When loading the screen, a list of 30 random monsters is generated in random loc
  
 - By pressing the button with a probability of 20%, the player catches a monster: with a successful capture, the monster is added to the team and cached, the system popup is shown: " You have caught the monster {n} in your team" (where {n} is the name of the monster), with the "Return to the map" button.
 
-
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9" width=50% height=50%>
 
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 12](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9)   ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 20](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/aba402eb-f5b5-41d9-9897-4138b0b34157)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 26](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/b6d02521-8885-419b-9a35-81c6200fe8da)
