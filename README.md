@@ -24,13 +24,13 @@ When loading the screen, a list of 30 random monsters is generated in random loc
 ## Screenshots
 
 
-<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9" width=50% height=50%>  <img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/aba402eb-f5b5-41d9-9897-4138b0b34157" width=50% height=50%>
-<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/b6d02521-8885-419b-9a35-81c6200fe8da" width=50% height=50%>
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9" width=30% height=30%>  <img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/aba402eb-f5b5-41d9-9897-4138b0b34157" width=30% height=30%>
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/b6d02521-8885-419b-9a35-81c6200fe8da" width=30% height=30%>
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/0e02f1b3-e356-4884-91a3-43156c720f20" width=30% height=30%>
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/f45da3de-22ed-49ff-a6b6-77602ae1d059" width=30% height=30%> 
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/949ebfbd-450e-44d8-a284-5183fd195bbd" width=30% height=30%> 
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/cb465791-8ba4-489b-ae11-831ab6bb5021" width=30% height=30%> 
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/4c42d483-c000-4eb9-8b64-fbe3b4d6d62a" width=30% height=30%> 
+<img src="https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/efa3f5f0-97af-4803-9f86-0646c4c1fa32" width=30% height=30%> 
 
-
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 31](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/0e02f1b3-e356-4884-91a3-43156c720f20)
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 36](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/f45da3de-22ed-49ff-a6b6-77602ae1d059)
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 39](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/949ebfbd-450e-44d8-a284-5183fd195bbd)![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 44](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/cb465791-8ba4-489b-ae11-831ab6bb5021)
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 53](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/4c42d483-c000-4eb9-8b64-fbe3b4d6d62a)
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 02 06](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/efa3f5f0-97af-4803-9f86-0646c4c1fa32)
 
