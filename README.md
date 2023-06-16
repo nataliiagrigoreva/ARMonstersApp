@@ -1,6 +1,11 @@
 # ARMonstersApp
+ 
+ ## Description
+ 
  The user can catch monsters in augmented reality on a physical map next to him.
 
+
+## Rules  
 
 When the application is launched, it is checked for access to the user's geolocation. When accessing the user's geolocation on the new screen, the user can see the monsters around him on the map, go to the capture of the selected monster or see his team.
 
@@ -17,8 +22,7 @@ When loading the screen, a list of 30 random monsters is generated in random loc
 
 
 
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 12](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9)
-![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 20](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/aba402eb-f5b5-41d9-9897-4138b0b34157)
+![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 12](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/65bb2700-701e-4986-932c-c353d98894a9)   ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 00 20](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/aba402eb-f5b5-41d9-9897-4138b0b34157)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 26](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/b6d02521-8885-419b-9a35-81c6200fe8da)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 31](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/0e02f1b3-e356-4884-91a3-43156c720f20)
 ![Simulator Screen Shot - iPhone 11 - 2023-06-06 at 16 01 36](https://github.com/nataliiagrigoreva/ARMonstersApp/assets/123460015/f45da3de-22ed-49ff-a6b6-77602ae1d059)
