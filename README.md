@@ -12,7 +12,7 @@ When loading the screen, a list of 30 random monsters is generated in random loc
 - if the distance is more than 100 meters, then a system alert is displayed: "You are too far from the monster – {n} meters."
 
 - When switching to the screen, a level from 5 to 20 is randomly generated for the monster.
--\
+ 
 - By pressing the button with a probability of 20%, the player catches a monster: with a successful capture, the monster is added to the team and cached, the system popup is shown: " You have caught the monster {n} in your team" (where {n} is the name of the monster), with the "Return to the map" button.
 
 
